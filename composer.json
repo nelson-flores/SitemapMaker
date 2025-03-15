@@ -17,6 +17,5 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "flores/sitemap-maker": "dev-main"
     }
 }
