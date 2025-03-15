@@ -1,0 +1,19 @@
+{
+    "name": "flores/sitemap-maker",
+    "description": "SitemapMaker is a PHP library for generating XML sitemaps. It provides an easy way to create, manage, and export sitemaps following the standard protocol.",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Flores\\SitemapMaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nelson Flores",
+            "email": "nelson.flores@live.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
