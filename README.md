@@ -1,6 +1,6 @@
-# Flores SitemapMaker
+# SitemapMaker
 
-Flores SitemapMaker is a PHP library for generating XML sitemaps. It provides an easy way to create, manage, and export sitemaps following the standard protocol.
+SitemapMaker is a PHP library for generating XML sitemaps. It provides an easy way to create, manage, and export sitemaps following the standard protocol.
 
 ## Features
 - Create XML sitemaps dynamically
